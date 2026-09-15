@@ -2,7 +2,6 @@
 
 This document maps each AWS service used in the three-tier architecture to its Azure equivalent, with side-by-side comparisons of how each pair actually differs in behavior — not just naming.
 
-\---
 
 ## Summary Table
 

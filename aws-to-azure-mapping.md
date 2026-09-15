@@ -10,14 +10,12 @@ This document maps each AWS service used in the three-tier architecture to its A
 |VPC|Virtual Network (VNet)|
 |EC2|Virtual Machines|
 |Auto Scaling Group|Virtual Machine Scale Sets (VMSS)|
-|Internet Gateway|*No direct equivalent — see below*|
 |Application Load Balancer|Application Gateway|
 |RDS (PostgreSQL)|Azure Database for PostgreSQL|
 |Security Groups|Network Security Groups (NSGs)|
 |NAT Gateway|Azure NAT Gateway|
 |IAM Roles|Managed Identities|
 
-\---
 
 ## VPC vs VNet
 
@@ -33,7 +31,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## EC2 vs Virtual Machines
 
@@ -47,7 +44,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## ALB vs Application Gateway
 
@@ -61,7 +57,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## RDS vs Azure Database for PostgreSQL
 
@@ -74,7 +69,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## Security Groups vs Network Security Groups
 
@@ -88,7 +82,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## NAT Gateway vs Azure NAT Gateway
 
@@ -103,7 +96,6 @@ This document maps each AWS service used in the three-tier architecture to its A
 
 
 
-\---
 
 ## IAM Roles vs Managed Identities
 
